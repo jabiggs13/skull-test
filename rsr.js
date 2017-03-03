@@ -20,7 +20,7 @@ skull.push(rsr.path("m 183.5,14.478 c -36.54,6.773 -62.44,49.699 -50.557,83.79 1
   parent: 'SK',
   'stroke-width': '0'
 }));
-skull.attr({
+SK.attr({
   fill: '#000000',
   id: 'SK',
   name: 'Skull'
